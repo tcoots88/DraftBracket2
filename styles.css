@@ -25,7 +25,7 @@ body {font-family: 'Istok Web', sans-serif;background: url("http://picjumbo.com/
 .current li {opacity: 1;}
 .round li {opacity: 1;}
 .current li.team {background-color: #fff;box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);opacity: 1;background-color: #fff;
-  box-shadow: 120px 80px 40px 20px #0ff;}
+  box-shadow: 0px 0px 0px 2px #0ff;}
 .vote-options {display: block;height: 52px;}
 #loser {text-decoration: line-through;}
 .share .container {margin: 0 auto; text-align: center;}
